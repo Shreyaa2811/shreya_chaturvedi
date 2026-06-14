@@ -1,0 +1,44 @@
+﻿Rubric 1 - The submission includes a publicly accessible live URL.
+Rubric 2 - The submission includes a complete source code package in ZIP format.
+Rubric 3 - The submission includes a README.md file.
+Rubric 4 - The submission includes an .env.example file.
+Rubric 5 - The README provides setup instructions for local deployment.
+Rubric 6 - The README lists default admin credentials.
+Rubric 7 - The application allows users to register using an email address and password.
+Rubric 8 – The application allows registered users to log in successfully.
+Rubric 9 - The application allows authenticated users to log out successfully.
+Rubric 10 - User passwords are not stored in plain text.
+Rubric 11 - JWT-based authentication is implemented.
+Rubric 12 - The game catalog contains at least six playable HTML5 games.
+Rubric 13 - Every game entry displays a title.
+Rubric 14 - Every game entry displays a thumbnail image.
+Rubric 15 - Every game entry displays a description.
+Rubric 16 - Every game entry displays a genre tag.
+Rubric 17 - The catalog includes a live search feature for game titles.
+Rubric 18 - The catalog includes a genre filtering feature.
+Rubric 19 - Each game opens on a dedicated game page.
+Rubric 20 - Each game page contains an embedded playable game.
+Rubric 21 - The system records a score for completed gameplay sessions.
+Rubric 22 - The system stores a high score for each user per game.
+Rubric 23 - High scores update only when a new score exceeds the stored score.
+Rubric 24 - Users can add games to a favorites list.
+Rubric 25 - Users can remove games from their favorites list.
+Rubric 26 - A dedicated Favorites page displays favorited games.
+Rubric 27 - The profile page displays the user’s username.
+Rubric 28 - The profile page displays total games played.
+Rubric 29 - The profile page displays cumulative total score.
+Rubric 30 - The profile page displays earned achievement badges.
+Rubric 31-  Users can upload a profile avatar image.
+Rubric 32 - The avatar upload accepts JPEG and PNG image formats.
+Rubric 33 - Users can update their display username
+Rubric 34-  The avatar upload rejects files larger than 2 MB
+Rubric 35 - The First Win badge is awarded automatically after a user’s first score submission.
+Rubric 36 - The High Roller badge is awarded automatically after a qualifying score above 1000.
+Rubric 37 - The Game Explorer badge is awarded automatically after playing at least three different games.
+Rubric 38 - The Favorite Collector badge is awarded automatically after favoriting at least five games.
+Rubric 39 - The Leaderboard Legend badge is awarded automatically after reaching the top three of a leaderboard.
+Rubric 40 - The global leaderboard displays the top 10 users with rank, username, avatar thumbnail, and cumulative score.
+Rubric 41 - Per-game leaderboards display the top 10 users with rank, username, avatar thumbnail, and score.
+Rubric 42 - The admin dashboard allows administrators to add games to the catalog.
+Rubric 43 - The admin dashboard allows administrators to remove games from the catalog.
+Rubric 44 - The admin dashboard allows administrators to deactivate user accounts
